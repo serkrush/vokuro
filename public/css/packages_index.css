@@ -1,0 +1,25 @@
+.packages-index {
+    height: 800px;
+}
+
+.packages-index .tab-content{
+    height: 100%;
+}
+
+.packages-index table th.package-id {
+    width: 75px;
+}
+
+.packages-index table th.user-name {
+    width: 110px;
+}
+
+.packages-index #custom-from,
+.packages-index #custom-to{
+    position: relative;
+    right: 50px;
+}
+
+.packages-index .dropdown-menu {
+    left: auto !important;
+}
